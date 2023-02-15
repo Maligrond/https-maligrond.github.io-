@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://maligrond.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Feb 2023 16:06:59 -0700</lastBuildDate><atom:link href="https://maligrond.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Randompost1</title>
+      <link>https://maligrond.github.io/posts/randompost-copy-2/</link>
+      <pubDate>Wed, 15 Feb 2023 16:06:59 -0700</pubDate>
+      
+      <guid>https://maligrond.github.io/posts/randompost-copy-2/</guid>
+      <description>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Randompost2</title>
+      <link>https://maligrond.github.io/posts/randompost-copy-3/</link>
+      <pubDate>Wed, 15 Feb 2023 16:06:59 -0700</pubDate>
+      
+      <guid>https://maligrond.github.io/posts/randompost-copy-3/</guid>
+      <description>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Randompost3</title>
+      <link>https://maligrond.github.io/posts/randompost-copy-4/</link>
+      <pubDate>Wed, 15 Feb 2023 16:06:59 -0700</pubDate>
+      
+      <guid>https://maligrond.github.io/posts/randompost-copy-4/</guid>
+      <description>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Randompost4</title>
+      <link>https://maligrond.github.io/posts/randompost-copy/</link>
+      <pubDate>Wed, 15 Feb 2023 16:06:59 -0700</pubDate>
+      
+      <guid>https://maligrond.github.io/posts/randompost-copy/</guid>
+      <description>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Randompost5</title>
+      <link>https://maligrond.github.io/posts/randompost/</link>
+      <pubDate>Wed, 15 Feb 2023 16:06:59 -0700</pubDate>
+      
+      <guid>https://maligrond.github.io/posts/randompost/</guid>
+      <description>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+  </channel>
+</rss>
